@@ -2,6 +2,10 @@
 A simple Bash and fuzzy finder script which enables watching several mocroblog topics at once.
 
 
+#### Dependencies:
+Bash
+Rofi and / or fzf
+
 #### With Bluetabs you may save several batches of feeds to watch:
 1. You must have Rofi or fzf for the menu.
 2. Clone this project and move it anywhere convenient to you.
